@@ -45,10 +45,6 @@
 
 <img width="30xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
-<br/>
-<br/>
-
----
 
 ### 📊 Estatísticas
 
