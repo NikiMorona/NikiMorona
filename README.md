@@ -61,7 +61,7 @@
   /><img 
       align="rigth" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikiMorona&theme=default&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
