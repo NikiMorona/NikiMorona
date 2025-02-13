@@ -1,16 +1,12 @@
 ## Hey, what's up!
 
-- I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about cybersecurity and data analysis.
-- Currently pursuing a technology-related associate degree while studying to enter ITA (Technological Institute of Aeronautics) for a Computer Engineering program.
+<img width="800xp" src="https://i.pinimg.com/736x/6a/3d/ef/6a3def6c5951687ecd313d14ff2a1abd.jpg" />
 
 ---
 
-### Curiosities:
-- I like math, chemistry and physics.
-- Pokémon.
-- Aespa, NJZ & ENHYPEN.
-- I am studying Mandarin in my spare time.
-- I like go to the gym and ride bike.
+- I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about cybersecurity and data analysis.
+- Currently pursuing a technology-related associate degree while studying to enter ITA (Technological Institute of Aeronautics) for a Computer Engineering program.
+
 ---
 
 ### Techs and tools
@@ -58,5 +54,13 @@
       height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikiMorona&theme=transparent&layout=compact&langs_count=10" 
   />
-</p>
+  
+---
 
+### Curiosities:
+- I like math, chemistry and physics.
+- Pokémon.
+- Aespa, NJZ & ENHYPEN.
+- I am studying Mandarin in my spare time.
+- I like go to the gym and ride bike.
+---
