@@ -58,8 +58,9 @@
 ### Curiosities:
 - I like math, chemistry and physics.
 - Pokémon.
-- Aespa, NJZ & ENHYPEN.
+- Aespa, NJZ & ENHYPEN - POP, R&B.
 - I am studying Mandarin in my spare time.
 - I like go to the gym and ride bike.
+- I'm a tifosi - 16/44.
 ---
 <img width="900xp" src="https://i.pinimg.com/736x/98/b9/5f/98b95f8aba05840074f00268e714bbe1.jpg" />
