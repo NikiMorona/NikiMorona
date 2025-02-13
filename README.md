@@ -1,7 +1,5 @@
 ## Hey, what's up!
 
-<img width="800xp" src="https://i.pinimg.com/736x/6a/3d/ef/6a3def6c5951687ecd313d14ff2a1abd.jpg" />
-
 ---
 
 - I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about cybersecurity and data analysis.
@@ -64,3 +62,4 @@
 - I am studying Mandarin in my spare time.
 - I like go to the gym and ride bike.
 ---
+<img width="900xp" src="https://i.pinimg.com/736x/6a/3d/ef/6a3def6c5951687ecd313d14ff2a1abd.jpg" />
