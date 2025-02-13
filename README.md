@@ -1,6 +1,19 @@
-## Hello! I'm Niki.
+## Hey, what's up!
 
-### Languages ​​and Technologies
+- I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about cybersecurity and data analysis.
+- Currently pursuing a technology-related associate degree while studying to enter ITA (Technological Institute of Aeronautics) for a Computer Engineering program.
+
+---
+
+### Curiosities:
+- I like math, chemistry and physics.
+- Pokémon.
+- Aespa, NJZ & ENHYPEN.
+- I am studying Mandarin in my spare time.
+- I like go to the gym and ride bike.
+---
+
+### Techs and tools
 
 <img 
     align="left" 
@@ -37,20 +50,12 @@
 
 <img width="40xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
-
+---
 ### Statistics
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NikiMorona&show_icons=true&theme=transparent&include_all_commits=true" 
-  />
 <img 
       align="rigth" 
       alt="GitHub Stats" 
-      height="150" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikiMorona&theme=transparent&layout=compact&langs_count=10" 
   />
 </p>
