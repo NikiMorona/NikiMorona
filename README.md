@@ -62,4 +62,4 @@
 - I am studying Mandarin in my spare time.
 - I like go to the gym and ride bike.
 ---
-<img width="900xp" src="https://i.pinimg.com/736x/6a/3d/ef/6a3def6c5951687ecd313d14ff2a1abd.jpg" />
+<img width="900xp" src="https://i.pinimg.com/736x/98/b9/5f/98b95f8aba05840074f00268e714bbe1.jpg" />
