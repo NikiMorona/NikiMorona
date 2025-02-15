@@ -2,7 +2,7 @@
 
 ---
 
-- I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about cybersecurity and data analysis.
+- I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about data analysis.
 - Currently pursuing a technology-related associate degree while studying to enter ITA (Technological Institute of Aeronautics) for a Computer Engineering program.
 
 ---
