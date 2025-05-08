@@ -5,11 +5,14 @@
   🤖 I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about data analysis.<br>
 </p>
 
+---
+
 ### 🚀 Techs and tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp)](https://skillicons.dev)
 
 ---
+
 ### 📈 Statistics
 <img 
       align="rigth" 
@@ -30,6 +33,8 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+---
 
 ### 🔭 Curiosities:
 - I am studying Mandarin and English in my spare time.
