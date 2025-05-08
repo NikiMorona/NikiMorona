@@ -54,13 +54,10 @@
 ---
 
 ### Curiosities:
-- I like math.
-- Pokémon.
-- Aespa - POP, R&B.
-- I am studying Mandarin in my spare time.
+- I am studying Mandarin and English in my spare time.
 - I like go to the gym and ride bike.
 - I'm a tifosi - 16/44.
+- Pokémon.
+- POP, R&B, Kpop...
 ---
-<img width="500px" src="https://i.pinimg.com/736x/99/dd/7e/99dd7e0299d6366e8c5389636bc1191a.jpg" />
-
-<img width="500px" src="https://i.pinimg.com/736x/2b/69/1e/2b691e12152bcb81b260a171e1eedf78.jpg" />
+<img width="500px" src="https://i.pinimg.com/736x/99/dd/7e/99dd7e0299d6366e8c5389636bc1191a.jpg" /><img width="500px" src="https://i.pinimg.com/736x/2b/69/1e/2b691e12152bcb81b260a171e1eedf78.jpg" />
