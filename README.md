@@ -60,4 +60,4 @@
 - Pokémon.
 - POP, R&B, Kpop...
 ---
-<img width="500px" src="https://i.pinimg.com/736x/99/dd/7e/99dd7e0299d6366e8c5389636bc1191a.jpg" /><img width="500px" src="https://i.pinimg.com/736x/2b/69/1e/2b691e12152bcb81b260a171e1eedf78.jpg" />
+<img width="300px" src="https://i.pinimg.com/736x/99/dd/7e/99dd7e0299d6366e8c5389636bc1191a.jpg" /><img width="300px" src="https://i.pinimg.com/736x/2b/69/1e/2b691e12152bcb81b260a171e1eedf78.jpg" />
