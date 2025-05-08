@@ -1,49 +1,16 @@
-## Hey, what's up!
+<h1 align="center">Hey! I'm Niki. 👋</h1>
+
+<p align="center">
+  🎓 Currently pursuing a technology-related associate degree.<br>
+  🤖 I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about data analysis.<br>
+</p>
+
+### 🚀 Techs and tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp)](https://skillicons.dev)
 
 ---
-
-- I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about data analysis.
-- Currently pursuing a technology-related associate degree.
----
-
-### Techs and tools
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img width="40xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-
----
-### Statistics
+### 📈 Statistics
 <img 
       align="rigth" 
       alt="GitHub Stats" 
@@ -53,7 +20,18 @@
   
 ---
 
-### Curiosities:
+## 🌐 Where to find me
+
+<p align="center">
+  <a href="https://github.com/NikiMorona" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:nicoleerthalmorona@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+### 🔭 Curiosities:
 - I am studying Mandarin and English in my spare time.
 - I like go to the gym and ride bike.
 - I'm a tifosi - 16/44.
