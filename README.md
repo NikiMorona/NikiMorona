@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Niki. 👋</h1>
 
-<p align="center">
+<p>
   🎓 Currently pursuing a technology-related associate degree.<br>
   🤖 I'm Niki, currently studying programming, aspiring fullstack developer, enthusiastic about data analysis.<br>
 </p>
