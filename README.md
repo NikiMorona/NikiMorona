@@ -9,9 +9,8 @@
 
 ### 🚀 Techs and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,php,mysql)](https://skillicons.dev)
-<img src="https://roxyfrangutierrezblog.wordpress.com/wp-content/uploads/2015/03/lazarus_logo_new.png" width="50px"/>
-<img src="https://mastigado.wordpress.com/wp-content/uploads/2021/06/firebird.png" width="50px"/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp)](https://skillicons.dev)
+
 ---
 
 ### 📈 Statistics
