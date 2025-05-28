@@ -2,14 +2,14 @@
 
 <p>
   🤖 I'm Niki, currently studing by myself java and python.<br>
-  🎓 Currently pursuing a technology-related associate degree. (on a waiting list for software engineering)
+  🎓 Currently pursuing a technology-related associate degree (on a waiting list for software engineering).
 </p>
 
 ---
 
 ### 🚀 Techs and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,java, figma)](https://skillicons.dev)
 
 ---
 
