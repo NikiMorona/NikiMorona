@@ -9,7 +9,7 @@
 
 ### 🚀 Techs and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,java,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,figma)](https://skillicons.dev)
 
 ---
 
