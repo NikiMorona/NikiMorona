@@ -1,15 +1,14 @@
 <h1 align="center">Hey! I'm Niki. 👋</h1>
 
 <p>
-  🤖 I'm Niki, currently studing by myself java and python.<br>
-  🎓 Currently pursuing a technology-related associate degree (on a waiting list for software engineering).
+  🎓 Currently pursuing a technology-related associate degree.
 </p>
 
 ---
 
 ### 🚀 Techs and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,figma,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,figma,c)](https://skillicons.dev)
 
 ---
 
@@ -37,7 +36,7 @@
 ---
 
 ### 🔭 Curiosities:
-- I am studying Mandarin, English and German in my spare time.
+- I am studying English in my spare time.
 - I like go to the gym and ride bike.
 - I'm a tifosi - 16/44, but I like Piastri too.
 - Pokémon.
